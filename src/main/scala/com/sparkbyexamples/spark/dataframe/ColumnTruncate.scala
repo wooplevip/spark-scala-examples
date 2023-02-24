@@ -1,7 +1,5 @@
 package com.sparkbyexamples.spark.dataframe
 
-import com.sparkbyexamples.spark.SQLContextExample.spark
-import org.apache.log4j.lf5.LogLevel
 import org.apache.spark.sql.SparkSession
 
 object ColumnTruncate extends App {
